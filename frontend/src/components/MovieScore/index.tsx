@@ -1,4 +1,4 @@
-import MovieStars from "../MovieStars";
+import MovieStars from "components/MovieStars";
 import './styles.css';
 
 type Props = {
@@ -17,4 +17,4 @@ function MovieScore({ score, count }: Props) {
     );
 }
 
-export default MovieScore; 
+export default MovieScore;
