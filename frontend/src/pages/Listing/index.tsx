@@ -1,9 +1,9 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
-import { MoviePage } from "types/Movie";
+import { useState, useEffect } from "react";
+import MovieCard from "components/MovieCard";
+import Pagination from "components/Pagination";
 import { BASE_URL } from "utils/requests";
-import MovieCard from "../../components/MovieCard";
-import Pagination from "../../components/Pagination";
+import { MoviePage } from "types/movie";
 
 function Listing() {
 
@@ -29,8 +29,7 @@ function Listing() {
             });
     }, [pageNumber]);
 
-
-    const handlePageChange = (newPageNumber: number) => {
+    const handlePageChange = (newPageNumber : number) => {
         setPageNumber(newPageNumber);
     }
 
