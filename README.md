@@ -5,8 +5,6 @@
 
 https://dsmoviecarlos.netlify.app
 
-obs: A aplicação pode levar alguns segundos para carregar
-
 DS Movie é uma aplicação full stack web e mobile construída durante a semana Spring React, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 O projeto consiste em uma plataforma de filmes onde é possível avaliar cada um entre 1 a 5 estrelas. Basta o usuário inserir um email, a avaliação desejada e salvar.
