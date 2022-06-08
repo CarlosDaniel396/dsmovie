@@ -3,7 +3,9 @@
 
 # Sobre o projeto
 
-https://dsmoviecarlos.netlify.app/
+https://dsmoviecarlos.netlify.app
+
+obs: A aplicação pode levar alguns segundos para carregar
 
 DS Movie é uma aplicação full stack web e mobile construída durante a semana Spring React, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
