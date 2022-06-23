@@ -15,7 +15,7 @@ O projeto consiste em uma plataforma de filmes onde é possível avaliar cada um
 ## Layout web
 ![Web 1](https://github.com/CarlosDaniel396/dsmovie/blob/main/frontend/src/assets/img/front-web.png)
 
-![Web 2](https://github.com/CarlosDaniel396/dsmovie/blob/main/frontend/src/assets/img/rate.png)
+![Web 2](https://github.com/CarlosDaniel396/dsmovie/blob/main/frontend/src/assets/img/rate-front.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/CarlosDaniel396/dsmovie/blob/main/frontend/src/assets/img/modelo-conceitual.png)
